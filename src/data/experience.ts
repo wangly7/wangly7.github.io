@@ -17,9 +17,7 @@ export const experiences = [
         description: [
             "Built a distributed control platform coordinating hardware boards for real-time quantum experiments.",
             "Designed asynchronous backend services using Python, RabbitMQ, and Redis.",
-            "Developed TCP/IP and UDP communication modules for reliable, high-throughput hardware interaction.",
-            "Optimized compute-intensive waveform processing."
-
+            "Developed TCP/IP and UDP communication modules for reliable, high-throughput hardware interaction."
         ],
           tech: [
             "Python",

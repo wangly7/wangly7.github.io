@@ -41,7 +41,7 @@ export default function Hero({ profile }: HeroProps) {
 
     <div className="mt-16 flex gap-5 text-2xl text-slate-500">
       <a
-        href="https://github.com/your-github"
+        href="https://github.com/wangly7"
         target="_blank"
         rel="noreferrer"
         className="transition hover:text-slate-900"
@@ -50,7 +50,7 @@ export default function Hero({ profile }: HeroProps) {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/your-linkedin"
+        href="https://www.linkedin.com/in/wangly07/"
         target="_blank"
         rel="noreferrer"
         className="transition hover:text-slate-900"
@@ -59,7 +59,7 @@ export default function Hero({ profile }: HeroProps) {
       </a>
 
       <a
-        href="https://www.instagram.com/your-instagram"
+        href="https://www.instagram.com/wleungy/"
         target="_blank"
         rel="noreferrer"
         className="transition hover:text-slate-900"
@@ -68,7 +68,7 @@ export default function Hero({ profile }: HeroProps) {
       </a>
 
       <a
-        href="mailto:your-email@example.com"
+        href="mailto:wangleungy77@gmail.com"
         className="transition hover:text-slate-900"
       >
         <MdEmail />
